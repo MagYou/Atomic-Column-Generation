@@ -1,6 +1,6 @@
 # Resource Constrained Shortest Path (RCSP) Instances
 
-This repository contains instances for the **Resource Constrained Shortest Path (RCSP)** problem, which is used in optimization and network design. The instances are divided into **Grid instances**, **SNDLIB instances** and **Zoo topology**, with each set containing both **Feasible** and **Infeasible** cases.
+This repository contains instances for the **Resource Constrained Shortest Path (RCSP)** problem, which is used in optimization and network design. The instances are divided into **Grid instances**, **SNDLIB instances** and **Zoo topology Instances**, with each set containing both **Feasible** and **Infeasible** cases.
 
 ## Instance Categories
 1. **Grid Instances**: These instances represent grid-based network structures.
